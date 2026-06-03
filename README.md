@@ -1,5 +1,3 @@
-Based on the details you shared, here's a professional GitHub Profile README you can use and customize.
-
 # Hi 👋, I'm Vishal Gunawad
 
 ## 🚀 About Me
